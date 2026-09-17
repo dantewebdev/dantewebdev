@@ -1,97 +1,64 @@
 # Szia, Dante vagyok!
 
-### Szoftver- és webfejlesztő
+### Webfejlesztő | SzakiOldal
 
-Modern weboldalakat, webalkalmazásokat és egyedi digitális megoldásokat készítek.
+Modern, professzionális weboldalakat készítek magyar vállalkozások számára.
 
-Jelenleg főként magyar vállalkozások online jelenlétének fejlesztésére koncentrálok, különösen a szakipari területen.
-
----
-
-## Rólam
-
-Szoftverfejlesztés és tesztelés területén tanulok, emellett több éve foglalkozom saját fejlesztési projektekkel.
-
-Szeretem az ötleteket működő, átgondolt és igényes digitális megoldásokká alakítani – a tervezéstől és fejlesztéstől egészen a kész termékig.
-
-A webfejlesztés mellett játékfejlesztéssel is foglalkozom, elsősorban Roblox és FiveM környezetben.
+A jelenlegi fókuszom a **SzakiOldal**, egy saját webfejlesztési projekt, amelynek célja, hogy szakipari vállalkozások számára igényes, modern és ügyfélszerző online jelenlétet biztosítson.
 
 ---
 
 ## SzakiOldal
 
-Jelenleg a **SzakiOldal** nevű saját projektemen dolgozom.
+A **SzakiOldal** kifejezetten magyar szakemberek és kisebb vállalkozások online megjelenésére fókuszál.
 
-A SzakiOldal célja, hogy modern és professzionális weboldalakat biztosítson olyan magyar vállalkozások számára, amelyek szolgáltatásaik magas színvonalát az interneten is szeretnék megfelelően bemutatni.
+Elsősorban olyan vállalkozások számára készülnek weboldalak, mint:
 
-Elsősorban olyan szakemberek és vállalkozások számára készítek weboldalakat, mint:
+- Víz-, gáz- és fűtésszerelők
+- Villanyszerelők
+- Klímaszerelők
+- Burkolók, festők és egyéb szakipari vállalkozások
 
-* Víz-, gáz- és fűtésszerelők
-* Villanyszerelők
-* Klímaszerelők
-* Egyéb szakipari vállalkozások
-
-A cél nem egyszerűen egy „weboldal elkészítése”, hanem egy olyan online megjelenés kialakítása, amely professzionálisan mutatja be a vállalkozást és megkönnyíti az ügyfelek számára a kapcsolatfelvételt.
+A célom nem csupán egy weboldal elkészítése, hanem egy **modern és bizalomépítő online jelenlét** kialakítása, amely bemutatja a vállalkozás szolgáltatásait, referenciáit és elérhetőségeit, miközben egyszerűvé teszi a kapcsolatfelvételt az érdeklődők számára.
 
 ---
 
-## Amivel foglalkozom
+## Amit készítek
 
-**Webfejlesztés**
+**Modern üzleti weboldalak**  
+Egyedi, reszponzív weboldalak számítógépre, tabletre és mobilra optimalizálva.
 
-Modern, reszponzív és felhasználóbarát weboldalak készítése.
+**Egyedi megoldások**  
+A vállalkozás igényeihez és működéséhez igazított funkciók és webes megoldások.
 
-**Egyedi fejlesztés**
+**Modern UI/UX**  
+Letisztult, átlátható és professzionális felületek, amelyek a felhasználói élményt helyezik előtérbe.
 
-A vállalkozás egyedi igényeihez igazított digitális megoldások.
-
-**Felhasználói felület és élmény**
-
-Letisztult, modern és könnyen használható felületek tervezése és fejlesztése.
-
-**Játékfejlesztés**
-
-Roblox és FiveM projektek fejlesztése, játékrendszerek, UI-k és egyedi funkciók készítése.
+**Online jelenlét fejlesztése**  
+Segítek egy vállalkozás szolgáltatásait és szakmai munkáját olyan formában bemutatni, amely bizalmat épít a leendő ügyfelekben.
 
 ---
 
 ## Technológiák
 
-### Webfejlesztés
-
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### Programozás
-
-`C#` `Python` `Lua` `Luau`
-
-### Játékfejlesztés
-
-`Roblox Studio` `FiveM`
-
-### Eszközök
-
-`Git` `GitHub` `Visual Studio` `Visual Studio Code`
+`Git` `GitHub` `Visual Studio Code`
 
 ---
 
 ## Jelenlegi fókusz
 
-Jelenleg az alábbi területekre koncentrálok:
-
-* A SzakiOldal fejlesztése
-* Modern üzleti weboldalak készítése
-* Webfejlesztési portfólióm építése
-* UI/UX fejlesztés
-* Egyedi webes megoldások fejlesztése
-* Szoftverfejlesztési tapasztalatom bővítése
+- SzakiOldal fejlesztése
+- Modern üzleti weboldalak készítése
+- Szakipari vállalkozások online jelenlétének fejlesztése
+- Webfejlesztési portfólió építése
+- Egyedi webes megoldások fejlesztése
 
 ---
 
 ## Kapcsolat
 
-Ha weboldalra vagy egyedi fejlesztésre van szükséged, keress bizalommal.
-
 **SzakiOldal:** hamarosan
 
-**GitHub:** https://github.com/DanteWebDev
+**GitHub:** [DanteWebDev](https://github.com/DanteWebDev)
