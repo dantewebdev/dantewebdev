@@ -59,6 +59,6 @@ Segítek egy vállalkozás szolgáltatásait és szakmai munkáját olyan formá
 
 ## Kapcsolat
 
-**SzakiOldal:** hamarosan
+**SzakiOldal:** https://szakioldal.github.io/
 
 **GitHub:** [DanteWebDev](https://github.com/DanteWebDev)
